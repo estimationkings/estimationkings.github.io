@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.estimationgame.app",
+      "sha256_cert_fingerprints": [
+        "B7:9C:B6:FC:29:18:0F:BC:32:2F:6E:27:EF:E2:92:31:CB:68:5A:88:B2:BB:B4:B5:97:35:CC:F4:49:99:D8:B4:B0"
+      ]
+    }
+  }
+]
